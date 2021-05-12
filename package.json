@@ -42,7 +42,7 @@
     ],
     "dependencies": {
         "deeks": "2.2.1",
-        "doc-path": "2.0.1",
+        "doc-path": "2.3.0",
         "underscore": "1.9.1"
     },
     "devDependencies": {
